@@ -1,0 +1,1724 @@
+
+===== New Run at 2025-10-25 10:49:22 =====
+DNS Listener running on DNSR (port 53) ...
+
+[2025-10-25 10:49:28] Query from 10.0.0.1 for tuhafhaberler.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 170.0 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 153.1 ms
+    Response:
+      com. -> 6 -> a.gtld-servers.net. nstld.verisign-grs.com. 1761478329 1800 900 604800 900
+
+  Total resolution time: 324.69 ms
+  Resolution failed.
+
+
+[2025-10-25 10:49:28] Query from 10.0.0.1 for tuhafhaberler.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 154.95 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 150.7 ms
+    Response:
+      com. -> 6 -> a.gtld-servers.net. nstld.verisign-grs.com. 1761478329 1800 900 604800 900
+
+  Total resolution time: 307.13 ms
+  Resolution failed.
+
+
+[2025-10-25 10:49:33] Query from 10.0.0.1 for tuhafhaberler.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 154.79 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 156.31 ms
+    Response:
+      com. -> 6 -> a.gtld-servers.net. nstld.verisign-grs.com. 1761478329 1800 900 604800 900
+
+  Total resolution time: 312.56 ms
+  Resolution failed.
+
+
+[2025-10-25 10:49:33] Query from 10.0.0.1 for tuhafhaberler.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 160.81 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 170.31 ms
+    Response:
+      com. -> 6 -> a.gtld-servers.net. nstld.verisign-grs.com. 1761478344 1800 900 604800 900
+
+  Total resolution time: 333.07 ms
+  Resolution failed.
+
+
+[2025-10-25 10:49:38] Query from 10.0.0.1 for rtsab.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 155.14 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 158.01 ms
+    Response:
+      rtsab.com. -> 2 -> dns01.dipcon.com.
+      rtsab.com. -> 2 -> dns03.ports.se.
+      rtsab.com. -> 2 -> dns04.ports.net.
+      rtsab.com. -> 2 -> dns02.ports.se.
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 193.14.90.50 | RTT: 197.31 ms
+    Response:
+      rtsab.com. -> 6 -> dns01.dipcon.com. registry.ports.net. 2025101000 14400 3600 1814400 3600
+
+  Total resolution time: 512.37 ms
+  Resolution failed.
+
+
+[2025-10-25 10:49:38] Query from 10.0.0.1 for rtsab.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 161.29 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 154.14 ms
+    Response:
+      rtsab.com. -> 2 -> dns01.dipcon.com.
+      rtsab.com. -> 2 -> dns03.ports.se.
+      rtsab.com. -> 2 -> dns04.ports.net.
+      rtsab.com. -> 2 -> dns02.ports.se.
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 193.14.90.50 | RTT: 208.46 ms
+    Response:
+      rtsab.com. -> 6 -> dns01.dipcon.com. registry.ports.net. 2025101000 14400 3600 1814400 3600
+
+  Total resolution time: 525.96 ms
+  Resolution failed.
+
+
+[2025-10-25 10:49:43] Query from 10.0.0.1 for rtsab.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.29 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 153.22 ms
+    Response:
+      rtsab.com. -> 2 -> dns01.dipcon.com.
+      rtsab.com. -> 2 -> dns03.ports.se.
+      rtsab.com. -> 2 -> dns04.ports.net.
+      rtsab.com. -> 2 -> dns02.ports.se.
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 193.14.90.50 | RTT: 202.31 ms
+    Response:
+      rtsab.com. -> 6 -> dns01.dipcon.com. registry.ports.net. 2025101000 14400 3600 1814400 3600
+
+  Total resolution time: 516.31 ms
+  Resolution failed.
+
+
+[2025-10-25 10:49:43] Query from 10.0.0.1 for rtsab.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.58 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 154.79 ms
+    Response:
+      rtsab.com. -> 2 -> dns01.dipcon.com.
+      rtsab.com. -> 2 -> dns03.ports.se.
+      rtsab.com. -> 2 -> dns04.ports.net.
+      rtsab.com. -> 2 -> dns02.ports.se.
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 193.14.90.50 | RTT: 199.41 ms
+    Response:
+      rtsab.com. -> 6 -> dns01.dipcon.com. registry.ports.net. 2025101000 14400 3600 1814400 3600
+
+  Total resolution time: 515.64 ms
+  Resolution failed.
+
+
+[2025-10-25 10:49:48] Query from 10.0.0.1 for i-butterfly.ru.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 154.26 ms
+    Response:
+      ru. -> 2 -> a.dns.ripn.net.
+      ru. -> 2 -> d.dns.ripn.net.
+      ru. -> 2 -> f.dns.ripn.net.
+      ru. -> 2 -> b.dns.ripn.net.
+      ru. -> 2 -> e.dns.ripn.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 193.232.128.6 | RTT: 219.58 ms
+    Response:
+      I-BUTTERFLY.RU. -> 2 -> sofia.ns.cloudflare.com.
+      I-BUTTERFLY.RU. -> 2 -> fred.ns.cloudflare.com.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 154.67 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 159.29 ms
+    Response:
+      cloudflare.com. -> 2 -> ns3.cloudflare.com.
+      cloudflare.com. -> 2 -> ns5.cloudflare.com.
+      cloudflare.com. -> 2 -> ns4.cloudflare.com.
+      cloudflare.com. -> 2 -> ns6.cloudflare.com.
+      cloudflare.com. -> 2 -> ns7.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 162.159.0.33 | RTT: 58.85 ms
+    Response:
+      sofia.ns.cloudflare.com. -> 1 -> 172.64.32.223
+      sofia.ns.cloudflare.com. -> 1 -> 173.245.58.223
+      sofia.ns.cloudflare.com. -> 1 -> 108.162.192.223
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 156.34 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 157.22 ms
+    Response:
+      cloudflare.com. -> 2 -> ns3.cloudflare.com.
+      cloudflare.com. -> 2 -> ns5.cloudflare.com.
+      cloudflare.com. -> 2 -> ns4.cloudflare.com.
+      cloudflare.com. -> 2 -> ns6.cloudflare.com.
+      cloudflare.com. -> 2 -> ns7.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 162.159.0.33 | RTT: 54.25 ms
+    Response:
+      fred.ns.cloudflare.com. -> 1 -> 172.64.33.113
+      fred.ns.cloudflare.com. -> 1 -> 108.162.193.113
+      fred.ns.cloudflare.com. -> 1 -> 173.245.59.113
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 172.64.32.223 | RTT: 58.33 ms
+    Response:
+      i-butterfly.ru. -> 1 -> 104.21.88.172
+      i-butterfly.ru. -> 1 -> 172.67.151.138
+
+  Total resolution time: 1182.06 ms
+
+[2025-10-25 10:49:49] Query from 10.0.0.1 for i-butterfly.ru.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 163.45 ms
+    Response:
+      ru. -> 2 -> a.dns.ripn.net.
+      ru. -> 2 -> d.dns.ripn.net.
+      ru. -> 2 -> f.dns.ripn.net.
+      ru. -> 2 -> b.dns.ripn.net.
+      ru. -> 2 -> e.dns.ripn.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 193.232.128.6 | RTT: 223.19 ms
+    Response:
+      I-BUTTERFLY.RU. -> 2 -> fred.ns.cloudflare.com.
+      I-BUTTERFLY.RU. -> 2 -> sofia.ns.cloudflare.com.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 169.86 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 167.61 ms
+    Response:
+      cloudflare.com. -> 2 -> ns3.cloudflare.com.
+      cloudflare.com. -> 2 -> ns5.cloudflare.com.
+      cloudflare.com. -> 2 -> ns4.cloudflare.com.
+      cloudflare.com. -> 2 -> ns6.cloudflare.com.
+      cloudflare.com. -> 2 -> ns7.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 162.159.0.33 | RTT: 57.66 ms
+    Response:
+      fred.ns.cloudflare.com. -> 1 -> 173.245.59.113
+      fred.ns.cloudflare.com. -> 1 -> 108.162.193.113
+      fred.ns.cloudflare.com. -> 1 -> 172.64.33.113
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 168.23 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 157.51 ms
+    Response:
+      cloudflare.com. -> 2 -> ns3.cloudflare.com.
+      cloudflare.com. -> 2 -> ns5.cloudflare.com.
+      cloudflare.com. -> 2 -> ns4.cloudflare.com.
+      cloudflare.com. -> 2 -> ns6.cloudflare.com.
+      cloudflare.com. -> 2 -> ns7.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 162.159.0.33 | RTT: 48.62 ms
+    Response:
+      sofia.ns.cloudflare.com. -> 1 -> 108.162.192.223
+      sofia.ns.cloudflare.com. -> 1 -> 173.245.58.223
+      sofia.ns.cloudflare.com. -> 1 -> 172.64.32.223
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 173.245.59.113 | RTT: 52.6 ms
+    Response:
+      i-butterfly.ru. -> 28 -> 2606:4700:3033::ac43:978a
+      i-butterfly.ru. -> 28 -> 2606:4700:3031::6815:58ac
+
+  Total resolution time: 1216.49 ms
+
+[2025-10-25 10:49:50] Query from 10.0.0.1 for datepanchang.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 180.24 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 159.74 ms
+    Response:
+      datepanchang.com. -> 2 -> magnolia.ns.cloudflare.com.
+      datepanchang.com. -> 2 -> edward.ns.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 108.162.194.214 | RTT: 260.78 ms
+    Response:
+      datepanchang.com. -> 1 -> 13.75.93.156
+
+  Total resolution time: 602.96 ms
+
+[2025-10-25 10:49:51] Query from 10.0.0.1 for datepanchang.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 156.36 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 169.26 ms
+    Response:
+      datepanchang.com. -> 2 -> magnolia.ns.cloudflare.com.
+      datepanchang.com. -> 2 -> edward.ns.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 108.162.194.214 | RTT: 262.05 ms
+    Response:
+      datepanchang.com. -> 6 -> edward.ns.cloudflare.com. dns.cloudflare.com. 2386880912 10000 2400 604800 1800
+
+  Total resolution time: 590.03 ms
+  Resolution failed.
+
+
+[2025-10-25 10:49:55] Query from 10.0.0.1 for datepanchang.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 156.14 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 159.46 ms
+    Response:
+      datepanchang.com. -> 2 -> magnolia.ns.cloudflare.com.
+      datepanchang.com. -> 2 -> edward.ns.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 108.162.194.214 | RTT: 52.36 ms
+    Response:
+      datepanchang.com. -> 1 -> 13.75.93.156
+
+  Total resolution time: 370.86 ms
+
+[2025-10-25 10:49:56] Query from 10.0.0.1 for datepanchang.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 181.06 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 156.81 ms
+    Response:
+      datepanchang.com. -> 2 -> magnolia.ns.cloudflare.com.
+      datepanchang.com. -> 2 -> edward.ns.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 108.162.194.214 | RTT: 262.93 ms
+    Response:
+      datepanchang.com. -> 6 -> edward.ns.cloudflare.com. dns.cloudflare.com. 2386880912 10000 2400 604800 1800
+
+  Total resolution time: 603.24 ms
+  Resolution failed.
+
+
+[2025-10-25 10:50:00] Query from 10.0.0.1 for datepanchang.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 155.94 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 154.11 ms
+    Response:
+      datepanchang.com. -> 2 -> magnolia.ns.cloudflare.com.
+      datepanchang.com. -> 2 -> edward.ns.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 108.162.194.214 | RTT: 142.28 ms
+    Response:
+      datepanchang.com. -> 1 -> 13.75.66.141
+
+  Total resolution time: 454.55 ms
+
+[2025-10-25 10:50:01] Query from 10.0.0.1 for datepanchang.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 170.42 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 156.12 ms
+    Response:
+      datepanchang.com. -> 2 -> magnolia.ns.cloudflare.com.
+      datepanchang.com. -> 2 -> edward.ns.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 108.162.194.214 | RTT: 150.86 ms
+    Response:
+      datepanchang.com. -> 6 -> edward.ns.cloudflare.com. dns.cloudflare.com. 2386880912 10000 2400 604800 1800
+
+  Total resolution time: 480.43 ms
+  Resolution failed.
+
+
+[2025-10-25 10:50:05] Query from 10.0.0.1 for localhost.re.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 157.86 ms
+    Response:
+      re. -> 2 -> d.nic.fr.
+      re. -> 2 -> f.ext.nic.fr.
+      re. -> 2 -> g.ext.nic.fr.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.9.1 | RTT: 179.24 ms
+    Response:
+      localhost.re. -> 2 -> hassan.ns.cloudflare.com.
+      localhost.re. -> 2 -> megan.ns.cloudflare.com.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 156.35 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 176.95 ms
+    Response:
+      cloudflare.com. -> 2 -> ns3.cloudflare.com.
+      cloudflare.com. -> 2 -> ns5.cloudflare.com.
+      cloudflare.com. -> 2 -> ns4.cloudflare.com.
+      cloudflare.com. -> 2 -> ns6.cloudflare.com.
+      cloudflare.com. -> 2 -> ns7.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 162.159.0.33 | RTT: 59.64 ms
+    Response:
+      hassan.ns.cloudflare.com. -> 1 -> 172.64.35.149
+      hassan.ns.cloudflare.com. -> 1 -> 162.159.44.149
+      hassan.ns.cloudflare.com. -> 1 -> 108.162.195.149
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 182.68 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 153.56 ms
+    Response:
+      cloudflare.com. -> 2 -> ns3.cloudflare.com.
+      cloudflare.com. -> 2 -> ns5.cloudflare.com.
+      cloudflare.com. -> 2 -> ns4.cloudflare.com.
+      cloudflare.com. -> 2 -> ns6.cloudflare.com.
+      cloudflare.com. -> 2 -> ns7.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 162.159.0.33 | RTT: 52.08 ms
+    Response:
+      megan.ns.cloudflare.com. -> 1 -> 173.245.58.197
+      megan.ns.cloudflare.com. -> 1 -> 108.162.192.197
+      megan.ns.cloudflare.com. -> 1 -> 172.64.32.197
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 172.64.35.149 | RTT: 52.48 ms
+    Response:
+      localhost.re. -> 1 -> 104.21.50.127
+      localhost.re. -> 1 -> 172.67.163.57
+
+  Total resolution time: 1178.3 ms
+
+[2025-10-25 10:50:06] Query from 10.0.0.1 for localhost.re.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 186.5 ms
+    Response:
+      re. -> 2 -> d.nic.fr.
+      re. -> 2 -> f.ext.nic.fr.
+      re. -> 2 -> g.ext.nic.fr.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.9.1 | RTT: 176.38 ms
+    Response:
+      localhost.re. -> 2 -> megan.ns.cloudflare.com.
+      localhost.re. -> 2 -> hassan.ns.cloudflare.com.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 154.79 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 152.9 ms
+    Response:
+      cloudflare.com. -> 2 -> ns3.cloudflare.com.
+      cloudflare.com. -> 2 -> ns5.cloudflare.com.
+      cloudflare.com. -> 2 -> ns4.cloudflare.com.
+      cloudflare.com. -> 2 -> ns6.cloudflare.com.
+      cloudflare.com. -> 2 -> ns7.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 162.159.0.33 | RTT: 52.84 ms
+    Response:
+      megan.ns.cloudflare.com. -> 1 -> 172.64.32.197
+      megan.ns.cloudflare.com. -> 1 -> 173.245.58.197
+      megan.ns.cloudflare.com. -> 1 -> 108.162.192.197
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 156.26 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 152.83 ms
+    Response:
+      cloudflare.com. -> 2 -> ns3.cloudflare.com.
+      cloudflare.com. -> 2 -> ns5.cloudflare.com.
+      cloudflare.com. -> 2 -> ns4.cloudflare.com.
+      cloudflare.com. -> 2 -> ns6.cloudflare.com.
+      cloudflare.com. -> 2 -> ns7.cloudflare.com.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 162.159.0.33 | RTT: 56.77 ms
+    Response:
+      hassan.ns.cloudflare.com. -> 1 -> 172.64.35.149
+      hassan.ns.cloudflare.com. -> 1 -> 108.162.195.149
+      hassan.ns.cloudflare.com. -> 1 -> 162.159.44.149
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 172.64.32.197 | RTT: 59.24 ms
+    Response:
+      localhost.re. -> 28 -> 2606:4700:3035::6815:327f
+      localhost.re. -> 28 -> 2606:4700:3033::ac43:a339
+
+  Total resolution time: 1156.22 ms
+
+[2025-10-25 10:50:08] Query from 10.0.0.1 for daehepharma.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 152.11 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 154.13 ms
+    Response:
+      daehepharma.com. -> 2 -> ns01.dhrcenter.com.
+      daehepharma.com. -> 2 -> ns02.dhrcenter.com.
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 220.73.163.40 | RTT: 166.57 ms
+    Response:
+      daehepharma.com. -> 6 -> ns01.dhrcenter.com. root.ns01.dhrcenter.com. 2019111809 28800 7200 604800 300
+
+  Total resolution time: 474.69 ms
+  Resolution failed.
+
+
+[2025-10-25 10:50:13] Query from 10.0.0.1 for daehepharma.com.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.63 ms
+    Response:
+      com. -> 2 -> l.gtld-servers.net.
+      com. -> 2 -> j.gtld-servers.net.
+      com. -> 2 -> h.gtld-servers.net.
+      com. -> 2 -> d.gtld-servers.net.
+      com. -> 2 -> b.gtld-servers.net.
+      com. -> 2 -> f.gtld-servers.net.
+      com. -> 2 -> k.gtld-servers.net.
+      com. -> 2 -> m.gtld-servers.net.
+      com. -> 2 -> i.gtld-servers.net.
+      com. -> 2 -> g.gtld-servers.net.
+      com. -> 2 -> a.gtld-servers.net.
+      com. -> 2 -> c.gtld-servers.net.
+      com. -> 2 -> e.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.41.162.30 | RTT: 155.59 ms
+    Response:
+      daehepharma.com. -> 2 -> ns01.dhrcenter.com.
+      daehepharma.com. -> 2 -> ns02.dhrcenter.com.
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 220.73.163.40 | RTT: 184.94 ms
+    Response:
+      daehepharma.com. -> 6 -> ns01.dhrcenter.com. root.ns01.dhrcenter.com. 2019111809 28800 7200 604800 300
+
+  Total resolution time: 501.27 ms
+  Resolution failed.
+
+
+[2025-10-25 10:50:18] Query from 10.0.0.1 for ex-jw.org.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 156.68 ms
+    Response:
+      org. -> 2 -> a2.org.afilias-nst.info.
+      org. -> 2 -> b2.org.afilias-nst.org.
+      org. -> 2 -> d0.org.afilias-nst.org.
+      org. -> 2 -> a0.org.afilias-nst.info.
+      org. -> 2 -> b0.org.afilias-nst.org.
+      org. -> 2 -> c0.org.afilias-nst.info.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 199.249.112.1 | RTT: 105.07 ms
+    Response:
+      ex-jw.org. -> 2 -> ns10.wixdns.net.
+      ex-jw.org. -> 2 -> ns11.wixdns.net.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.89 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 153.15 ms
+    Response:
+      wixdns.net. -> 2 -> dns1.p02.nsone.net.
+      wixdns.net. -> 2 -> dns2.p02.nsone.net.
+      wixdns.net. -> 2 -> dns3.p02.nsone.net.
+      wixdns.net. -> 2 -> dns4.p02.nsone.net.
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 198.51.44.2 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 198.51.45.2 | RTT: 59.08 ms
+    Response:
+      ns10.wixdns.net. -> 1 -> 216.239.36.100
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 156.68 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 157.89 ms
+    Response:
+      wixdns.net. -> 2 -> dns1.p02.nsone.net.
+      wixdns.net. -> 2 -> dns2.p02.nsone.net.
+      wixdns.net. -> 2 -> dns3.p02.nsone.net.
+      wixdns.net. -> 2 -> dns4.p02.nsone.net.
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 198.51.44.2 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 198.51.45.2 | RTT: 62.28 ms
+    Response:
+      ns11.wixdns.net. -> 1 -> 216.239.38.100
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 216.239.36.100 | RTT: 32.92 ms
+    Response:
+      ex-jw.org. -> 1 -> 185.230.63.186
+      ex-jw.org. -> 1 -> 185.230.63.107
+      ex-jw.org. -> 1 -> 185.230.63.171
+
+  Total resolution time: 5057.17 ms
+
+[2025-10-25 10:50:23] Query from 10.0.0.1 for ex-jw.org.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 160.91 ms
+    Response:
+      org. -> 2 -> a2.org.afilias-nst.info.
+      org. -> 2 -> b2.org.afilias-nst.org.
+      org. -> 2 -> d0.org.afilias-nst.org.
+      org. -> 2 -> a0.org.afilias-nst.info.
+      org. -> 2 -> b0.org.afilias-nst.org.
+      org. -> 2 -> c0.org.afilias-nst.info.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 199.249.112.1 | RTT: 93.45 ms
+    Response:
+      ex-jw.org. -> 2 -> ns11.wixdns.net.
+      ex-jw.org. -> 2 -> ns10.wixdns.net.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 157.28 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 155.42 ms
+    Response:
+      wixdns.net. -> 2 -> dns1.p02.nsone.net.
+      wixdns.net. -> 2 -> dns2.p02.nsone.net.
+      wixdns.net. -> 2 -> dns3.p02.nsone.net.
+      wixdns.net. -> 2 -> dns4.p02.nsone.net.
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 198.51.44.2 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 198.51.45.2 | RTT: 70.66 ms
+    Response:
+      ns11.wixdns.net. -> 1 -> 216.239.38.100
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 169.71 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 173.04 ms
+    Response:
+      wixdns.net. -> 2 -> dns1.p02.nsone.net.
+      wixdns.net. -> 2 -> dns2.p02.nsone.net.
+      wixdns.net. -> 2 -> dns3.p02.nsone.net.
+      wixdns.net. -> 2 -> dns4.p02.nsone.net.
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 198.51.44.2 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 198.51.45.2 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 198.51.44.66 | RTT: 90.63 ms
+    Response:
+      ns10.wixdns.net. -> 1 -> 216.239.36.100
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 216.239.38.100 | RTT: 34.65 ms
+    Response:
+      ex-jw.org. -> 1 -> 185.230.63.186
+      ex-jw.org. -> 1 -> 185.230.63.107
+      ex-jw.org. -> 1 -> 185.230.63.171
+
+  Total resolution time: 7122.58 ms
+
+[2025-10-25 10:50:30] Query from 10.0.0.1 for ex-jw.org.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 173.34 ms
+    Response:
+      org. -> 2 -> a2.org.afilias-nst.info.
+      org. -> 2 -> b2.org.afilias-nst.org.
+      org. -> 2 -> d0.org.afilias-nst.org.
+      org. -> 2 -> a0.org.afilias-nst.info.
+      org. -> 2 -> b0.org.afilias-nst.org.
+      org. -> 2 -> c0.org.afilias-nst.info.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 199.249.112.1 | RTT: 100.84 ms
+    Response:
+      ex-jw.org. -> 2 -> ns10.wixdns.net.
+      ex-jw.org. -> 2 -> ns11.wixdns.net.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 152.73 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 153.04 ms
+    Response:
+      wixdns.net. -> 2 -> dns1.p02.nsone.net.
+      wixdns.net. -> 2 -> dns2.p02.nsone.net.
+      wixdns.net. -> 2 -> dns3.p02.nsone.net.
+      wixdns.net. -> 2 -> dns4.p02.nsone.net.
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 198.51.44.2 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 198.51.45.2 | RTT: 63.45 ms
+    Response:
+      ns10.wixdns.net. -> 1 -> 216.239.36.100
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 160.31 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 159.59 ms
+    Response:
+      wixdns.net. -> 2 -> dns1.p02.nsone.net.
+      wixdns.net. -> 2 -> dns2.p02.nsone.net.
+      wixdns.net. -> 2 -> dns3.p02.nsone.net.
+      wixdns.net. -> 2 -> dns4.p02.nsone.net.
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 198.51.44.2 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 198.51.45.2 | RTT: 65.24 ms
+    Response:
+      ns11.wixdns.net. -> 1 -> 216.239.38.100
+
+  Step 3 | Mode: Iterative | Stage: TLD | Server: 216.239.36.100 | RTT: 148.37 ms
+    Response:
+      ex-jw.org. -> 6 -> ns10.wixdns.net. support.wix.com. 2023070114 10800 3600 1209600 3600
+
+  Total resolution time: 5194.05 ms
+  Resolution failed.
+
+
+[2025-10-25 10:50:35] Query from 10.0.0.1 for us.tf.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 157.22 ms
+    Response:
+      tf. -> 2 -> f.ext.nic.fr.
+      tf. -> 2 -> d.nic.fr.
+      tf. -> 2 -> g.ext.nic.fr.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.146.106.46 | RTT: 166.79 ms
+    Response:
+      us.tf. -> 2 -> ns1.idnscan.net.
+      us.tf. -> 2 -> ns2.idnscan.net.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 170.12 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 156.6 ms
+    Response:
+      idnscan.net. -> 2 -> ns1.domainers.de.
+      idnscan.net. -> 2 -> ns2.domainers.de.
+      idnscan.net. -> 2 -> ns3.domainers.de.
+      idnscan.net. -> 2 -> ns4.domainers.de.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 169.63 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 179.95 ms
+    Response:
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.16.246 | RTT: 187.82 ms
+    Response:
+      ns1.domainers.de. -> 1 -> 95.130.16.246
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 153.95 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 171.37 ms
+    Response:
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.17.218 | RTT: 186.35 ms
+    Response:
+      ns2.domainers.de. -> 1 -> 95.130.17.218
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 156.76 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 172.22 ms
+    Response:
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 217.146.22.194 | RTT: 176.12 ms
+    Response:
+      ns3.domainers.de. -> 1 -> 217.146.22.194
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 170.3 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 172.01 ms
+    Response:
+      domainers.de. -> 2 -> ns4.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 144.76.91.137 | RTT: 163.01 ms
+    Response:
+      ns4.domainers.de. -> 1 -> 144.76.91.137
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.16.246 | RTT: 195.14 ms
+    Response:
+      ns1.idnscan.net. -> 1 -> 95.130.17.35
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.72 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 153.98 ms
+    Response:
+      idnscan.net. -> 2 -> ns1.domainers.de.
+      idnscan.net. -> 2 -> ns2.domainers.de.
+      idnscan.net. -> 2 -> ns3.domainers.de.
+      idnscan.net. -> 2 -> ns4.domainers.de.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.36 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 173.28 ms
+    Response:
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.16.246 | RTT: 192.19 ms
+    Response:
+      ns1.domainers.de. -> 1 -> 95.130.16.246
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.27 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 184.81 ms
+    Response:
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.17.218 | RTT: 189.32 ms
+    Response:
+      ns2.domainers.de. -> 1 -> 95.130.17.218
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.51 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 182.06 ms
+    Response:
+      domainers.de. -> 2 -> ns2.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 217.146.22.194 | RTT: 180.35 ms
+    Response:
+      ns3.domainers.de. -> 1 -> 217.146.22.194
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 171.18 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 173.04 ms
+    Response:
+      domainers.de. -> 2 -> ns4.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 144.76.91.137 | RTT: 162.89 ms
+    Response:
+      ns4.domainers.de. -> 1 -> 144.76.91.137
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.16.246 | RTT: 199.12 ms
+    Response:
+      ns2.idnscan.net. -> 1 -> 95.130.17.35
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 95.130.17.35 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 95.130.17.35 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Total resolution time: 9532.14 ms
+  Resolution failed.
+
+
+[2025-10-25 10:50:44] Query from 10.0.0.1 for us.tf.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 187.76 ms
+    Response:
+      tf. -> 2 -> f.ext.nic.fr.
+      tf. -> 2 -> d.nic.fr.
+      tf. -> 2 -> g.ext.nic.fr.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.146.106.46 | RTT: 171.19 ms
+    Response:
+      us.tf. -> 2 -> ns1.idnscan.net.
+      us.tf. -> 2 -> ns2.idnscan.net.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 168.26 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 169.27 ms
+    Response:
+      idnscan.net. -> 2 -> ns1.domainers.de.
+      idnscan.net. -> 2 -> ns2.domainers.de.
+      idnscan.net. -> 2 -> ns3.domainers.de.
+      idnscan.net. -> 2 -> ns4.domainers.de.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 155.82 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 186.62 ms
+    Response:
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.16.246 | RTT: 188.34 ms
+    Response:
+      ns1.domainers.de. -> 1 -> 95.130.16.246
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 154.52 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 179.03 ms
+    Response:
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.17.218 | RTT: 184.72 ms
+    Response:
+      ns2.domainers.de. -> 1 -> 95.130.17.218
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 165.42 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 177.34 ms
+    Response:
+      domainers.de. -> 2 -> ns4.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 217.146.22.194 | RTT: 182.23 ms
+    Response:
+      ns3.domainers.de. -> 1 -> 217.146.22.194
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.05 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 178.11 ms
+    Response:
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 144.76.91.137 | RTT: 172.28 ms
+    Response:
+      ns4.domainers.de. -> 1 -> 144.76.91.137
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.16.246 | RTT: 192.25 ms
+    Response:
+      ns1.idnscan.net. -> 1 -> 95.130.17.35
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 157.81 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 157.23 ms
+    Response:
+      idnscan.net. -> 2 -> ns1.domainers.de.
+      idnscan.net. -> 2 -> ns2.domainers.de.
+      idnscan.net. -> 2 -> ns3.domainers.de.
+      idnscan.net. -> 2 -> ns4.domainers.de.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 155.37 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 174.8 ms
+    Response:
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.16.246 | RTT: 190.42 ms
+    Response:
+      ns1.domainers.de. -> 1 -> 95.130.16.246
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 153.67 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 181.72 ms
+    Response:
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.17.218 | RTT: 192.38 ms
+    Response:
+      ns2.domainers.de. -> 1 -> 95.130.17.218
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 170.36 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 175.11 ms
+    Response:
+      domainers.de. -> 2 -> ns4.domainers.de.
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 217.146.22.194 | RTT: 182.38 ms
+    Response:
+      ns3.domainers.de. -> 1 -> 217.146.22.194
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 171.08 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 181.51 ms
+    Response:
+      domainers.de. -> 2 -> ns3.domainers.de.
+      domainers.de. -> 2 -> ns2.domainers.de.
+      domainers.de. -> 2 -> ns1.domainers.de.
+      domainers.de. -> 2 -> ns4.domainers.de.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 144.76.91.137 | RTT: 162.58 ms
+    Response:
+      ns4.domainers.de. -> 1 -> 144.76.91.137
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 95.130.16.246 | RTT: 192.61 ms
+    Response:
+      ns2.idnscan.net. -> 1 -> 95.130.17.35
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 95.130.17.35 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Step 3 | Mode: Iterative | Stage: Timeout | Server: 95.130.17.35 | RTT: None ms
+    Response:
+      No response (timeout)
+
+  Total resolution time: 9601.13 ms
+  Resolution failed.
+
+
+[2025-10-25 10:50:54] Query from 10.0.0.1 for informarexresistere.fr.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 177.3 ms
+    Response:
+      fr. -> 2 -> f.ext.nic.fr.
+      fr. -> 2 -> d.nic.fr.
+      fr. -> 2 -> g.ext.nic.fr.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.146.106.46 | RTT: 168.63 ms
+    Response:
+      informarexresistere.fr. -> 2 -> ns100.ovh.net.
+      informarexresistere.fr. -> 2 -> dns100.ovh.net.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 155.37 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 154.34 ms
+    Response:
+      ovh.net. -> 2 -> ns10.ovh.net.
+      ovh.net. -> 2 -> dns15.ovh.net.
+      ovh.net. -> 2 -> dns10.ovh.net.
+      ovh.net. -> 2 -> dns11.ovh.net.
+      ovh.net. -> 2 -> ns11.ovh.net.
+      ovh.net. -> 2 -> dns12.ovh.net.
+      ovh.net. -> 2 -> ns12.ovh.net.
+      ovh.net. -> 2 -> ns15.ovh.net.
+      ovh.net. -> 2 -> ns13.ovh.net.
+      ovh.net. -> 2 -> dns13.ovh.net.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 5.39.20.253 | RTT: 185.18 ms
+    Response:
+      ns100.ovh.net. -> 1 -> 5.135.44.185
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 152.23 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 154.74 ms
+    Response:
+      ovh.net. -> 2 -> ns10.ovh.net.
+      ovh.net. -> 2 -> dns15.ovh.net.
+      ovh.net. -> 2 -> dns10.ovh.net.
+      ovh.net. -> 2 -> dns11.ovh.net.
+      ovh.net. -> 2 -> ns11.ovh.net.
+      ovh.net. -> 2 -> dns12.ovh.net.
+      ovh.net. -> 2 -> ns12.ovh.net.
+      ovh.net. -> 2 -> ns15.ovh.net.
+      ovh.net. -> 2 -> ns13.ovh.net.
+      ovh.net. -> 2 -> dns13.ovh.net.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 5.39.20.253 | RTT: 183.05 ms
+    Response:
+      dns100.ovh.net. -> 1 -> 5.135.250.177
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 5.135.44.185 | RTT: 188.15 ms
+    Response:
+      informarexresistere.fr. -> 1 -> 178.32.143.165
+
+  Total resolution time: 1526.73 ms
+
+[2025-10-25 10:50:56] Query from 10.0.0.1 for informarexresistere.fr.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 172.33 ms
+    Response:
+      fr. -> 2 -> f.ext.nic.fr.
+      fr. -> 2 -> d.nic.fr.
+      fr. -> 2 -> g.ext.nic.fr.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.146.106.46 | RTT: 170.82 ms
+    Response:
+      informarexresistere.fr. -> 2 -> dns100.ovh.net.
+      informarexresistere.fr. -> 2 -> ns100.ovh.net.
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.68 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 156.22 ms
+    Response:
+      ovh.net. -> 2 -> ns10.ovh.net.
+      ovh.net. -> 2 -> dns15.ovh.net.
+      ovh.net. -> 2 -> dns10.ovh.net.
+      ovh.net. -> 2 -> dns11.ovh.net.
+      ovh.net. -> 2 -> ns11.ovh.net.
+      ovh.net. -> 2 -> dns12.ovh.net.
+      ovh.net. -> 2 -> ns12.ovh.net.
+      ovh.net. -> 2 -> ns15.ovh.net.
+      ovh.net. -> 2 -> ns13.ovh.net.
+      ovh.net. -> 2 -> dns13.ovh.net.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 5.39.20.253 | RTT: 183.47 ms
+    Response:
+      dns100.ovh.net. -> 1 -> 5.135.250.177
+
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 152.71 ms
+    Response:
+      net. -> 2 -> m.gtld-servers.net.
+      net. -> 2 -> k.gtld-servers.net.
+      net. -> 2 -> b.gtld-servers.net.
+      net. -> 2 -> f.gtld-servers.net.
+      net. -> 2 -> d.gtld-servers.net.
+      net. -> 2 -> h.gtld-servers.net.
+      net. -> 2 -> j.gtld-servers.net.
+      net. -> 2 -> l.gtld-servers.net.
+      net. -> 2 -> a.gtld-servers.net.
+      net. -> 2 -> e.gtld-servers.net.
+      net. -> 2 -> c.gtld-servers.net.
+      net. -> 2 -> g.gtld-servers.net.
+      net. -> 2 -> i.gtld-servers.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 192.55.83.30 | RTT: 156.02 ms
+    Response:
+      ovh.net. -> 2 -> ns10.ovh.net.
+      ovh.net. -> 2 -> dns15.ovh.net.
+      ovh.net. -> 2 -> dns10.ovh.net.
+      ovh.net. -> 2 -> dns11.ovh.net.
+      ovh.net. -> 2 -> ns11.ovh.net.
+      ovh.net. -> 2 -> dns12.ovh.net.
+      ovh.net. -> 2 -> ns12.ovh.net.
+      ovh.net. -> 2 -> ns15.ovh.net.
+      ovh.net. -> 2 -> ns13.ovh.net.
+      ovh.net. -> 2 -> dns13.ovh.net.
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 5.39.20.253 | RTT: 180.35 ms
+    Response:
+      ns100.ovh.net. -> 1 -> 5.135.44.185
+
+  Step 3 | Mode: Iterative | Stage: Authoritative | Server: 5.135.250.177 | RTT: 182.29 ms
+    Response:
+      informarexresistere.fr. -> 1 -> 178.32.143.165
+
+  Total resolution time: 1520.39 ms
+
+[2025-10-25 10:50:57] Query from 10.0.0.1 for running-sigi.de.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 163.75 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 172.17 ms
+    Response:
+      de. -> 6 -> f.nic.de. dns-operations.denic.de. 1761478342 7200 7200 3600000 7200
+
+  Total resolution time: 337.61 ms
+  Resolution failed.
+
+
+[2025-10-25 10:50:57] Query from 10.0.0.1 for running-sigi.de.
+  Step 1 | Mode: Iterative | Stage: Root | Server: 198.41.0.4 | RTT: 158.49 ms
+    Response:
+      de. -> 2 -> a.nic.de.
+      de. -> 2 -> l.de.net.
+      de. -> 2 -> s.de.net.
+      de. -> 2 -> f.nic.de.
+      de. -> 2 -> z.nic.de.
+      de. -> 2 -> n.de.net.
+
+  Step 2 | Mode: Iterative | Stage: TLD | Server: 194.0.0.53 | RTT: 175.93 ms
+    Response:
+      de. -> 6 -> f.nic.de. dns-operations.denic.de. 1761478342 7200 7200 3600000 7200
+
+  Total resolution time: 335.59 ms
+  Resolution failed.
+
